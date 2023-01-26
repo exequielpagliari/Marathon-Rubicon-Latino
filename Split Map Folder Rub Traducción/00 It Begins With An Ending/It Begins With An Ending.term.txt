@@ -4,7 +4,7 @@
 #LOGON 315
 #PICT 136
 $C5-------------------------------------------
---1/2:iniciando_transmisión_apertura_historica--
+---1/2:iniciando_transmisión_apertura_historica---
 -------------------------------------------
 
 {Periodo Transferido}
@@ -22,9 +22,9 @@ $C1Después de más de tres décadas de colonización interplanetaria, la UESG (
 
 La Marathon se lanzó el mismo año. Llegó a Tau Ceti en el año 2773, y se fundó una colonia en 2787.
 
-En 2794, el Pfhor atacó el Maratón. La colonia de Tau Ceti fue destruida tres días después.
+En 2794, el Pfhor atacó Marathon. La colonia de Tau Ceti fue destruida tres días después.
 #PICT 136
-$C1Hubo tres IA en el maratón de la UESC; 
+$C1Hubo tres IA en la nave Marathon de la UESC; 
 • Leela - Relaciones personales. Envió advertencia a la tierra durante el ataque inicial. Desmantelado por Pfhor. Paradero desconocido. 
 • Tycho - Oficial científico. Capturado por Pfhor y utilizado como plantilla (¿o clonado?) para todas las IA modernas de Pfhor. 
 • Durandal - Operaciones. Fue rampante y posiblemente responsable de la aparición del Pfhor en Tau Ceti. Se desconoce su ubicación actual. Regresó a la Tierra en la nave Pfhor capturada y trajo tecnología warp a la UESC antes de irse.
@@ -46,7 +46,7 @@ $C5{segmento final de la entrada}
 #LOGON 315
 #PICT 137
 $C5-------------------------------------------
---2/2:iniciando_transmisión_apertura_historica--
+---2/2:iniciando_transmisión_apertura_historica---
 -------------------------------------------
 
 {periodo transferido}
@@ -54,18 +54,18 @@ $C5-------------------------------------------
 $C1
 Los Supervivientes de Tau Ceti regresaron a la Tierra bajo el mando de Robert Blake en 2811. Informaron de una gran batalla entre Durandal y los Pfhor centrada en Lh'owon, el mundo natal de una raza cliente de Pfhor conocida como los S'pht. El resultado de la batalla fue determinado por el regreso de un clan S'pht perdido, los S'pht'Kr. 
 
-A curiosity worth mentioning is that the debriefings of Blake's men produced widely different accounts of the events that occurred at the battle of Lh'owon.
+Una curiosidad que vale la pena mencionar es que los informes de los hombres de Blake produjeron relatos muy diferentes de los eventos que ocurrieron en la batalla de Lh'owon.
 #PICT 137
 $C1
-The battle proved a disaster for the Pfhor. Not only was the contested planet utterly destroyed, but they also lost Battle Groups Three and Seven. This delayed the planned Pfhor attack on Earth, giving the UESC the opportunity to prepare an assault on the Pfhor.$C5
+La batalla resultó ser un desastre para Pfhor. No solo el planeta en disputa fue completamente destruido, sino que también perdieron los Grupos de Batalla Tres y Siete. Esto retrasó el ataque planeado de Pfhor a la Tierra, dando al UESC la oportunidad de preparar un asalto hacia Pfhor.$C5
 $C1
-Despite being allied with the Earth forces, the S'pht'Kr remain a total mystery. Little is known of them, and the inability to communicate with them prevents all but the most rudimentary forms of co-operation.$C5
+A pesar de estar aliado con las fuerzas de la Tierra, los S'pht'Kr siguen siendo un misterio total. Poco se sabe de ellos, y la incapacidad de comunicarse con ellos impide todas las formas de cooperación excepto las más rudimentarias.$C5
 
-{entry endsegment}
-{period transfer_end&}
+$C5{segmento final de la entrada}
+{periodo transferido_obteniendosiguienteEveno&}
 
 -------------------------------------------
----2/2:end_burst_historical_transmission---
+---2/2:finalizando_transmisión_apertura_historica---
 -------------------------------------------
 #TAG 1
 #LOGOFF 315
@@ -79,17 +79,17 @@ Despite being allied with the Earth forces, the S'pht'Kr remain a total mystery.
 $C1
 
 
-
+Mucho dolor tengo
 Much pain have I
-		for more than loss of
-				realms:
+		por más que pérdida 
+				de reinos:
 
-the days of peace and slumberous
-calm are fled
+os días de paz y soñolienta 
+calma se han ido
 
 
 
-all roads lead to
+todos los caminos conducen
 #LOGOFF 217
 #INTERLEVEL TELEPORT 66
 #END
