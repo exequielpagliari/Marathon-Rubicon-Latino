@@ -7,11 +7,11 @@ $C5-------------------------------------------
 --1/2:begin_burst_historical_transmission--
 -------------------------------------------
 
-{period transfer}
-{entry begin}
+{Periodo Transferido}
+{inicia entrada}
 
 $C1
-File Summary:
+Resumen de Archivo:
 
 This historical transmission is intended to serve as an enclosure of supporting information to file #iso-342107 $C5(caution: file referenced not found)$C1.  It documents the important resultant political and social events that led to the initial contact between humanity and the Pfhor.
 #PICT 136
