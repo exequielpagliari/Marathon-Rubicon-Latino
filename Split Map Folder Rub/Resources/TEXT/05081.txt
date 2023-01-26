@@ -1,0 +1,1 @@
+<marathon><opengl><fog on="true" type="0" depth="24" landscapes="true"><color red="0.05" green="0.25" blue="0.05"/></fog></opengl><view><!--normal: fov normal="80" extra="130" tunnel="30" rate="1.667"/--><fov normal="90" extra="130" tunnel="30" rate="1.667"/></view></marathon>
