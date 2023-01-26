@@ -4,7 +4,7 @@
 #LOGON 315
 #PICT 136
 $C5-------------------------------------------
---1/2:begin_burst_historical_transmission--
+--1/2:iniciando_transmisión_apertura_historica--
 -------------------------------------------
 
 {Periodo Transferido}
@@ -18,23 +18,23 @@ Esta transmisión histórica está destinada a servir como un anexo de informaci
 $C5
 {comientza el contenido 1/2}
 
-$C1After more than three decades of interplanetary colonization, the UESG (United Earth Space Government) bought the Martian moon Deimos. A decade later, the conversion from moon to giant spaceship began. After sixty-four years, in 2472, the ship was completed and the resulting ship named the UESC (United Earth Space Council) Marathon.
+$C1Después de más de tres décadas de colonización interplanetaria, la UESG (United Earth Space Government) compró la luna marciana Deimos. Una década más tarde, comenzó la conversión de luna a nave espacial gigante. Después de sesenta y cuatro años, en 2472, la nave se completó y la nave resultante se denominó UESC (United Earth Space Council) Marathon.
 
-The Marathon was launched the same year. It arrived at Tau Ceti in the year 2773, and a colony was founded in 2787.
+La Marathon se lanzó el mismo año. Llegó a Tau Ceti en el año 2773, y se fundó una colonia en 2787.
 
-In 2794, the Pfhor attacked the Marathon. The Tau Ceti colony was destroyed three days later.
+En 2794, el Pfhor atacó el Maratón. La colonia de Tau Ceti fue destruida tres días después.
 #PICT 136
-$C1There were three AIs on the UESC Marathon;
-• Leela - Personal Relations. Sent warning to earth during initial attack. Dismantled by Pfhor. Whereabouts unknown.
-• Tycho - Science Officer. Captured by the Pfhor and used as a template (or cloned?) for all modern Pfhor AIs.
-• Durandal - Operations. Went rampant and possibly responsible for the Pfhor appearing at Tau Ceti. His current location is unknown. Returned to Earth in captured Pfhor ship and brought warp technology to the UESC before leaving.
+$C1Hubo tres IA en el maratón de la UESC; 
+• Leela - Relaciones personales. Envió advertencia a la tierra durante el ataque inicial. Desmantelado por Pfhor. Paradero desconocido. 
+• Tycho - Oficial científico. Capturado por Pfhor y utilizado como plantilla (¿o clonado?) para todas las IA modernas de Pfhor. 
+• Durandal - Operaciones. Fue rampante y posiblemente responsable de la aparición del Pfhor en Tau Ceti. Se desconoce su ubicación actual. Regresó a la Tierra en la nave Pfhor capturada y trajo tecnología warp a la UESC antes de irse.
 
 
-$C5{entry endsegment}
-{period transfer_getnextEvent&}
+$C5{segmento final de la entrada}
+{periodo transferido_obteniendosiguienteEveno&}
 
 -------------------------------------------
----1/2:end_burst_historical_transmission---
+---1/2:finalizando_transmisión_apertura_historica---
 -------------------------------------------
 #LOGOFF 315
 #INTRALEVEL TELEPORT 193
@@ -49,8 +49,8 @@ $C5-------------------------------------------
 --2/2:begin_burst_historical_transmission--
 -------------------------------------------
 
-{period transfer}
-{entry begin}
+{periodo transferido}
+{inicio de entrada}
 $C1
 The Survivors of Tau Ceti returned to Earth under the command of Robert Blake in 2811.  They reported a massive battle between Durandal and the Pfhor centered on Lh'owon, the homeworld of a Pfhor client race known as the S'pht.  The outcome of the battle was determined by the return of a lost S'pht clan, the S'pht'Kr.
 
