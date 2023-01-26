@@ -13,10 +13,10 @@ $C5-------------------------------------------
 $C1
 Resumen de Archivo:
 
-This historical transmission is intended to serve as an enclosure of supporting information to file #iso-342107 $C5(caution: file referenced not found)$C1.  It documents the important resultant political and social events that led to the initial contact between humanity and the Pfhor.
+Esta transmisión histórica está destinada a servir como un anexo de información de respaldo para archivar #iso-342107 $C5(precaución: el archivo referenciado no se encuentra)$C1.  Documenta los importantes eventos políticos y sociales resultantes que llevaron al contacto inicial entre la humanidad y el Pfhor.
 #PICT 136
 $C5
-{begin file contents 1/2}
+{comientza el contenido 1/2}
 
 $C1After more than three decades of interplanetary colonization, the UESG (United Earth Space Government) bought the Martian moon Deimos. A decade later, the conversion from moon to giant spaceship began. After sixty-four years, in 2472, the ship was completed and the resulting ship named the UESC (United Earth Space Council) Marathon.
 
