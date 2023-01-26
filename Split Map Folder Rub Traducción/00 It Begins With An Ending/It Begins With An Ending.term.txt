@@ -46,13 +46,13 @@ $C5{segmento final de la entrada}
 #LOGON 315
 #PICT 137
 $C5-------------------------------------------
---2/2:begin_burst_historical_transmission--
+--2/2:iniciando_transmisión_apertura_historica--
 -------------------------------------------
 
 {periodo transferido}
 {inicio de entrada}
 $C1
-The Survivors of Tau Ceti returned to Earth under the command of Robert Blake in 2811.  They reported a massive battle between Durandal and the Pfhor centered on Lh'owon, the homeworld of a Pfhor client race known as the S'pht.  The outcome of the battle was determined by the return of a lost S'pht clan, the S'pht'Kr.
+Los Supervivientes de Tau Ceti regresaron a la Tierra bajo el mando de Robert Blake en 2811. Informaron de una gran batalla entre Durandal y los Pfhor centrada en Lh'owon, el mundo natal de una raza cliente de Pfhor conocida como los S'pht. El resultado de la batalla fue determinado por el regreso de un clan S'pht perdido, los S'pht'Kr. 
 
 A curiosity worth mentioning is that the debriefings of Blake's men produced widely different accounts of the events that occurred at the battle of Lh'owon.
 #PICT 137
