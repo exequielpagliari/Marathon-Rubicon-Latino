@@ -42,25 +42,25 @@ $C5-------Registro de Ingeniro en Mantenimiento de Ascensores-------$C7
 >Se requiere reparación manual at:$C4   $C7SUBESTACIÓN D3
 >Estado de la Subestación:           $C2CRITICA$C7
 
->Crew:$C4            $C7 $C5Lt.  Davis Hartman
-                   Pvt. Upton Sinclair
-         		        Pvt. Rowe Johnson$C7
->Status Report:    $C5Issued by Lt. A. Hartman
+>CTripulación:$C4            $C7 $C5Sgto.  Davis Hartman
+                   Priv. Upton Sinclair
+         		        Priv. Rowe Johnson$C7
+>Estado del reporte:    $C5Emitido por Sgto. A. Hartman
 #PICT 125
 $C7
 
----------Begin Lift Status Report---------
+---------Inicio del Reporte de Estado de Elevación---------
 
 
-Timestamp: 1907 hrs.
+Maraca de Tiempo: 1907 hrs.
 
-$C5I'm panicking.  I was going to say that Upton and Rowe are missing, but that's a lie - they're dead.  It all happened so fast.  Pfhor breached the outer wall, and the liquid from the reservoir rushed in and threw both of them into the storage room.  I wonder if the chemicals killed them before they drowned?  I can still hear the rush of the burning red river ringing in my ears...   The only way I was able to make it to safety was by climbing up through the vents.$C4
+$C5Estoy entrando en pánico. Iba a decir que Upton y Rowe están desaparecidos, pero es mentira, están muertos. Todo sucedió tan rápido. Pfhor abrió una brecha en la pared exterior, y el líquido del depósito se precipitó y los arrojó a ambos a la sala de almacenamiento. Me pregunto si los químicos los mataron antes de que se ahogaran. Todavía puedo escuchar la corriente del río rojo ardiente resonando en mis oídos... La única forma en que pude llegar a un lugar seguro fue trepando por las rejillas de ventilación.$C4
 #PICT 125
-$C5We had almost finished the repairs necessary to bring all the lifts online at the time the hull breached.  The access panels are probably still down there, somewhere.  I don't think this stuff can melt metal, but I'm not about to find out.
+$C5Casi habíamos terminado las reparaciones necesarias para poner en funcionamiento todos los ascensores en el momento en que se rompió el casco. Los paneles de acceso probablemente todavía estén ahí abajo, en alguna parte. No creo que esto pueda derretir metal, pero no voy a averiguarlo.
 $C4
 $C7
 
-----------End Lift Status Report----------
+----------Fin del Reporte de Estado de Elevación----------
 #LOGOFF 113
 #END
 #ENDTERMINAL 1
@@ -70,30 +70,29 @@ $C7
 #LOGON 0
 $C3<$C0cmd prama$C3 &49$C0c2$C3>
 #PICT 3
-$C3shel.override
-----------begin external feed$C7
+$C3capa.anulada
+----------iniciando alimentación externa$C7
 
 $C0
-You are standing inside the wreckage of the $IChimera$i, pride of the UESC until approximately three hours ago.  That was when she went down, after taking heavy fire while spearheading the UESC advance against the entrenched Pfhor forces.
+Estás parado dentro de los restos del $IChimera$i, orgullo de la UESC hasta hace aproximadamente tres horas. Fue entonces cuando cayó, después de recibir un intenso fuego mientras encabezaba el avance de la UESC contra las fuerzas atrincheradas de Pfhor.
 
-I need you to bring the power in this area back online.  According to my preliminary search of the local mainframe crew logs, an uplink chip was manufactured to restore the power conduit, but was lost when the $IChimera's$i hull was fractured and water flooded the engineering area.
+Necesito que vuelvas a conectar la energía en esta área. De acuerdo con mi búsqueda preliminar de los registros de la tripulación del mainframe local, se fabricó un chip de enlace para restaurar el conducto de energía, pero se perdió cuando el casco de la $IChimera's$i se fracturó y el agua inundó el área de ingeniería.I
 #PICT 133
-$C3document.access<34>
-//display$C0
+$C3acceso.documento<34>
+//mostrando$C0
 
 
 
 
 
-Find the nearest area with access to the flooded section of the deck, and dive in.  In the submerged section you should encounter a room through the door depicted to the left.  The chip I need you to retrieve is at the circled location.
+Encuentre el área más cercana con acceso a la sección inundada de la cubierta y sumérjase. En la sección sumergida, debe encontrar una habitación a través de la puerta que se muestra a la izquierda. El chip que necesito que recuperes está en la ubicación marcada con un círculo.
 #PICT 134
-$C3document.access<35>
-//display node$C0
+$acceso.documento<35>
+//mostrando nodo$C0
 
+Una vez que haya recuperado el chip de enlace, insértelo aquí, en la subestación D3. Con las reparaciones instaladas, debería poder restaurar la energía hidráulica local.
 
-Once you have retrieved the uplink chip, insert it here, at Substation D3.  With the repairs installed, you should be able to restore local hydraulic power.
-
-I'm currently reviewing everything I have on the $IChimera$i, and you ought to know that the ship was equipped with a sentient AI. Specs will be forthcoming as soon as I can find some to give you - the design information isn't in any of the usual places.
+Actualmente estoy revisando todo lo que tengo sobre la $IChimera$i, y debes saber que la nave estaba equipada con una IA inteligente. Las especificaciones estarán disponibles tan pronto como pueda encontrar algunas para brindarles - en la información de diseño no se encuentra no es nada abitual.
 
 
 
