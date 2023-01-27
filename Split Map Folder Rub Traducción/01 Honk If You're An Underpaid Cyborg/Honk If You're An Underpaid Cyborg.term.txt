@@ -4,25 +4,25 @@
 #LOGON 112
 #PICT 117
 $C4
-**malfunction** $C7unable 5-3 d-2s-l-52ay
+**malfuncionamiento** $C7incapaz 5-3 d-2s-l-52ay
 $C4
 $C7   //(*#10010011#@^)$C4
 
 [main()]
 
- $C7  --attempting recalibration..$C4. fai$C7le$C4d--
+ $C7  --intentando recalibración..$C4. fa$C7la$C4do--
 
 
-[#in$C7clud$C4e <iostream.h>]
+[#in$C7cluid$C4o <iostream.h>]
 [#include <uescai.h>]
 [ax-s2 <st$$#@<<st~
 
-err(40$C74) - file <iostream.h> n$C4ot found
-err(un$C7defined) - file <uescai.h> damaged
+err(40$C74) - archivo <iostream.h> n$C4no encontrado
+err(sin$C7definir) - archivo <uescai.h> dañado
 
-compile$C4 failed
+error$C4 compilado
 
-   $C7/($C4accessvia$C7ventshaft$C414-dbu$C7sblev$C4l4)/
+   $C7/($C4accesovia$C7conducto$C414-dbu$C7sbnive$C4l4)/
 #LOGOFF 112
 #END
 #ENDTERMINAL 0
@@ -33,14 +33,14 @@ compile$C4 failed
 #PICT 125
 $C7
 
-$C5-------Engineer Lift Maintenance Log-------$C7
+$C5-------Registro de Ingeniro en Mantenimiento de Ascensores-------$C7
 
 
->Main Control:      $C2          OFFLINE$C7
->Backup Control:              $C5PARTIAL$C7
->Automated Repair:            $C2FAILED$C7
->Manual repair required at:$C4   $C7SUBSTATION D3
->Substation Status:           $C2CRITICAL$C7
+>Control Principal:      $C2          Fuera de Línea$C7
+>Control de Respaldo:              $C5PARCIAL$C7
+>Reparación Automatizada:            $C2FALLÓ$C7
+>Se requiere reparación manual at:$C4   $C7SUBESTACIÓN D3
+>Estado de la Subestación:           $C2CRITICA$C7
 
 >Crew:$C4            $C7 $C5Lt.  Davis Hartman
                    Pvt. Upton Sinclair
